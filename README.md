@@ -12,7 +12,8 @@ This is a beautifully styled **circular card** component built using **pure HTML
 - 📱 Fully responsive centering using Flexbox
 
 ---
-
+## 📸 Preview
+![Card Preview](circular.png)
 
 ## 💡 Usage
 
